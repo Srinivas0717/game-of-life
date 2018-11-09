@@ -501,12 +501,12 @@
 <repository>
 <id>nexus</id>
 <name>gitone_releases</name>
-<url>http://35.243.218.224:8081/repository/gitone_releases/</url>
+<url>http://104.196.34.249:8081/repository/gitone_releases/</url>
 </repository>
 <snapshotRepository>
 <id>nexus</id>
 <name>gitone_snapshots</name>
-<url>http://35.243.218.224:8081/repository/gitone_snapshots/</url>
+<url>http://104.196.34.249:8081/repository/gitone_snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 
